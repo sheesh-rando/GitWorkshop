@@ -9,3 +9,5 @@
 
 The second project is making a digital mental health helper (a chatbot:robot:) with NLP and Amazon Lex.
 ![chatbot illustration](https://www.nami.org/NAMI/media/NAMI-Media/BlogImageArchive/2019/therapy-concepts-blog.jpeg)
+
+![image](https://i.imgflip.com/lrihf.jpg)
